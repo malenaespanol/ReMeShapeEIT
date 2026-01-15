@@ -16,6 +16,12 @@ The code implements two qualitative (non-iterative) reconstruction methods for E
 - **Linear Sampling Method (LSM)**
 - **Regularized Factorization Method (RFM)**
 
+using three different regularization techniques
+
+- **Tikhonov Regularization**
+- **Spectral Cut off**
+- **Truncated Total Least Squars (TTLS)**
+
 The setting involves Robin boundary conditions on both the exterior boundary and an interior interface, and reconstruction is performed using the Robin-to-Dirichlet (RtD) map. The code generates indicator functions for the interior region and reproduces the figures in the paper, including noise-free and noisy data, different interior region sizes, and various noise levels and boundary sampling resolutions.
 
 ---
