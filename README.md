@@ -9,7 +9,7 @@ This repository contains a MATLAB implementation of the methods developed in the
 
 ## Overview
 
-This repository contains two **MATLAB files**, `ReMEShapeEIT_CircularInterface.m and ReMEShapeEIT_StarInterface.m  which reproduces the numerical experiments from the paper in Sections 4.1 and 4.2 (in the last (published) version), respectively.
+This repository contains two **MATLAB files**: ReMEShapeEIT_CircularInterface.m and ReMEShapeEIT_StarInterface.m, which reproduce the numerical experiments from the paper in Sections 4.1 and 4.2, respectively.
 
 The code implements two qualitative (non-iterative) reconstruction methods for Electrical Impedance Tomography (EIT):
 
